@@ -1,3 +1,2 @@
 # Mandelbrot
-Mandelbrot and Julia drawer
-simple drawer of Mandelbrot and Julia fractals
+Simple drawer of Mandelbrot and Julia fractals
